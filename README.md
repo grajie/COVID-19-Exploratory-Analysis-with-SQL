@@ -2,7 +2,7 @@
 
 Thank you for visiting the repository of Data Analysis and Visualization of COVID-19 Dataset.
 
-This data exploration project is descriptive analysis of COVID-19 dataset containing data about COVID-19 cases, deaths, vaccinations, socio economic factors from Jan 1,2020 to Feb 5,2022. I have built global profile along with 10 most visited country profiles which will allow you to explore the statistic on the Coronavirus pandemic for each listed country.
+This data exploration project is Descriptive Analysis and Visualization of COVID-19 dataset containing data about COVID-19 cases, deaths, vaccinations, socio economic factors from Jan 1,2020 to Feb 5,2022. I have built global profile along with 10 most visited country profiles which will allow you to explore the statistic on the Coronavirus pandemic for each listed country.
 
 This project is purely based on SQL Server, employing its innate capabilities:
 - User-defined Procedures
@@ -22,19 +22,19 @@ This project is purely based on SQL Server, employing its innate capabilities:
     5) Inference
     
 
-**Dataset Overview**
+## Dataset Overview
 - Data Source: ourworldindata.org Links: https://covid.ourworldindata.org/data/owid-covid-data.xlsx https://github.com/owid/covid-19-data/tree/master/public/data
 - Rows: 160000 Columns: 59
 
-**Data Preparation**
+## Data Preparation
 - Handling of NULL Values
 - Datatype for columns containing numerical data was converted to Float as they were imported as nvarchar
 
-**ToolsUsed**
+## ToolsUsed
 - RDBMS: Microsoft SQL Server Management Studio
 - Tableau Public
 
-**Exploratory Analysis**
+## Exploratory Analysis
 1) Global COVID Tracker
 
         - Total Cases / Total Deaths / Mortality Rate (Case Fatality Ratio) : Global        
@@ -100,6 +100,6 @@ This project is purely based on SQL Server, employing its innate capabilities:
                  
 4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
 		
-        - GDP per Capita , Human Development Index(HDI) vs Covid 19 Vaccination Distribution         
+        - GDP per Capita , Human Development Index(HDI) Vs Covid 19 Vaccination Distribution         
  
 
