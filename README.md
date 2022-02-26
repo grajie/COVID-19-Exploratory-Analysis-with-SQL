@@ -17,7 +17,9 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Exploratory Analysis
     1) Global COVID Explorer 
     2) Country COVID Profiles
-    3) Inference
+    3) Government Policy Responces
+    4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
+    5) Inference
     
 
 **Dataset Overview**
@@ -36,32 +38,68 @@ This project is purely based on SQL Server, employing its innate capabilities:
 1) Global COVID Tracker
 
         - Total Cases / Total Deaths / Mortality Rate (Case Fatality Ratio) : Global        
-        - Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Continent        
+         
+        - Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Continent      
+           
         - Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Country
-	- Distribution of Covid Cases worldwide 	
-	- Global Mortality Distribution                 
+         
+        - Distribution of Covid Cases worldwide 	
+         
+        - Global Mortality Distribution   
+                       
         - Cummulative number of new cases and new deaths over time        
-        - 7 Day Moving Average of daily new cases and new deaths        
+         
+        - 7 Day Moving Average of daily new cases and new deaths      
+           
         - Date Of First Case Reported For Each Country
-        - Date First Death was reported in each country        
-	- Case Summary of Each Country : Total Cases, Total Deaths, Percent Population Infected, Percent Population Dead, Mortality Rate	
-	- TOP 10 countries most affected by COVID	
-	- Top 10 countries with most deaths due to COVID 
-	- Countries Sorted as Highest to Loweset Case Count	
-	- Countries Sorted as Highest to Loweset Death Count
+         
+        - Date First Death was reported in each country     
+            
+        - Case Summary of Each Country : Total Cases, Total Deaths, Percent Population Infected, Percent Population Dead, Mortality Rate	
+         
+        - TOP 10 countries most affected by COVID	
+         
+        - Top 10 countries with most deaths due to COVID 
+         
+        - Countries Sorted as Highest to Loweset Case Count	
         
+        - Countries Sorted as Highest to Loweset Death Count
+        
+        - Global Vaccination Report : Cummulative Distribution Relative to Population
+         
+        - Top 10 Country with most citizens partially Vaccinated
+         
+        - Top 10 Country with most citizens Fully Vaccinated
+         
+        - Top 10 Countries with most Doses Administered
+        
+        - Daily Share of Vaccinations: 7 Day Moving Average per country
+        
+      
 2) Country COVID Profiles
-
+		
         - Cummulative number of New Cases by day         
-	- Cummulative number of New Deaths by day	 
-	- 7-Day moving average of Covid Cases	 
-      	- 7-Day moving average of Covid Deaths      	
-      	- Percent Distribution by Population (New Cases) : Observing changes over Time      	
-      	- Percent Distribution by Population (New Deaths) : Observing changes over Time      	 
-      	- Mortaltity Rate (Case Fatality Ratio) : Observing changes over Time      	
-      	- Case Summary
+         
+        - Cummulative number of New Deaths by day	 
+         
+        - 7-Day moving average of Covid Cases	 
+         
+        - 7-Day moving average of Covid Deaths      	
+         
+        - Percent Distribution by Population (New Cases) : Observing changes over Time      	
+         
+        - Percent Distribution by Population (New Deaths) : Observing changes over Time      	 
+         
+        - Mortaltity Rate (Case Fatality Ratio) : Observing changes over Time      	
+         
+        - Case Summary
 	
-
-
-
+3) Government Policy Responce
+		
+        - Stringency Index
+                 
+4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
+		
+        - GDP per Capita , Human Development Index(HDI) vs Covid 19 Vaccination Distribution         
+ 
 
