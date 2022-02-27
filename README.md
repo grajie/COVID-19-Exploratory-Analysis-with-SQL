@@ -37,7 +37,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Tableau Public
 
 ## Exploratory Analysis
-1) Global COVID Tracker
+**1) Global COVID Tracker**
 
         - Total Cases / Total Deaths / Mortality Rate (Case Fatality Ratio) : Global        
          
@@ -78,7 +78,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
         - Daily Share of Vaccinations: 7 Day Moving Average per country
         
       
-2) Country COVID Profiles
+**2) Country COVID Profiles**
 		
         - Cummulative number of New Cases by day         
          
@@ -96,14 +96,14 @@ This project is purely based on SQL Server, employing its innate capabilities:
          
         - Case Summary
 	
-3) Government Policy Responce
+**3) Government Policy Responce**
 		
         -  Stringency Index : Analysis depicts all countries policy measures in responce to COVID - Observed over time
         
         		      This is a composite measure based on nine response indicators including school closures, workplace
 			      closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest).
 		                
-4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
+**4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution**
 		
         - GDP per Capita , Human Development Index(HDI) Vs Covid 19 Vaccination Distribution       
         		     
