@@ -1,15 +1,15 @@
 
 /*********************SQL Skills Showcased***************************/
 				
-				--	1)Aggregate Functions
-				--	2)Window Functions
-				--	3)Common Table Expression
-				--	4)Temporary Tables
-				--	5)Views
-				--	6)Stored Procedures
-				--	7)Cursors
-				--  8)Handling NULL Values
-				--  9)FORMAT(),CAST(), ROUND()
+	--  1)Aggregate Functions
+	--  2)Window Functions
+	--  3)Common Table Expression
+	--  4)Temporary Tables
+	--  5)Views
+	--  6)Stored Procedures
+	--  7)Cursors
+	--  8)Handling NULL Values
+	--  9)FORMAT(),CAST(), ROUND()
 
 /*-----------------------------Global Tracker------------------------------------*/
 
