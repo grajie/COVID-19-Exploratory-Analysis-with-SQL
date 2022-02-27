@@ -110,7 +110,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 			     Exploring the relationship between COVID-19 vaccine distribution and two macro-socioeconomics measures, 
 			     including human development index and gross domestic product 
 			     
-        - **Inference** : Higher gross domestic product per capita is positively associated with higher COVID-19 vaccine distribution, and
+        **Inference** : Higher gross domestic product per capita is positively associated with higher COVID-19 vaccine distribution, and
         	      this relationship becomes more robust over time
 
  
