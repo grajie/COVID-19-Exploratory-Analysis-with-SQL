@@ -17,16 +17,15 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Data Preparation
 - Tools Used
 - Exploratory Analysis
-    1) Global COVID Explorer 
-    2) Country COVID Profiles
-    3) Government Policy Responces
-    4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
+    1) [Global COVID Explorer ](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
+    2) [Country COVID Profiles](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
+    3) [Government Policy Responces](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
+    4) [Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
     5) Inference
     
 
 ## Dataset Overview
-- Data Source: ourworldindata.org Links: https://covid.ourworldindata.org/data/owid-covid-data.xlsx https://github.com/owid/covid-19-data/tree/master/public/data
-- Rows: 160000 Columns: 59
+- Data Source: ourworldindata.org Links: https://covid.ourworldindata.org/data/owid-covid-data.xlsx
 
 ## Data Preparation
 - Handling of NULL Values
