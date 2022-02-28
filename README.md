@@ -38,31 +38,31 @@ This project is purely based on SQL Server, employing its innate capabilities:
 ## Exploratory Analysis
 **1-Global COVID Tracker**
 
-[- Total Cases/ Total Deaths / Mortality Rate (Case Fatality Ratio) : Global](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L95-L97)
+[- Total Cases/ Total Deaths / Mortality Rate (Case Fatality Ratio) : Global](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L95-L99)
 
 [- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Continent](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L101-L107)     
    
-[- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L241-L254)
+[- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L239-L254)
  
-[- Distribution of Covid Cases worldwide](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L340-L391)
+[- Distribution of Covid Cases worldwide](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L344-L395)
  
-[- Global Mortality Distribution](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L286-L336)   
+[- Global Mortality Distribution](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L290-L340)   
        
 [- Cummulative number of new cases and new deaths over time](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L142-L150)
  
 [- 7 Day Moving Average of daily new cases and new deaths](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L110-L140)      
    
-[- Date Of First Case Reported For Each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L155-L158)
+[- Date Of First Case Reported For Each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L154-L158)
      
 [- Case Summary of Each Country : Total Cases, Total Deaths, Percent Population Infected, Percent Population Dead, Mortality Rate](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L239-L266)	
  
-[- TOP 10 countries most affected by COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L273-L276)	
+[- TOP 10 countries most affected by COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L277-L280)	
  
-[- Top 10 countries with most deaths due to COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L278-L281) 
+[- Top 10 countries with most deaths due to COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L282-L285) 
  
-[- Countries Sorted as Highest to Loweset Case Count](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L268-L271)	
+[- Countries Sorted as Highest to Loweset Case Count](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L268-L275)	
 
-[- Countries Sorted as Highest to Loweset Death Count](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L272-L275)
+[- Countries Sorted as Highest to Loweset Death Count](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L273-L275)
 
 [- Global Vaccination Report : Cummulative Distribution Relative to Population](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L20-L35)
  
