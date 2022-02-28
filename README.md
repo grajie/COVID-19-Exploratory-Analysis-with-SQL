@@ -13,10 +13,10 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Views 
 
 ## Table of Contents
-- Dataset Overview
-- Data Preparation
-- Tools Used
-- Exploratory Analysis
+- [Dataset Overview](#dataset-overview "Dataset Overview")
+- [Data Preparation](#data-preparation "Data Preparation")
+- [Tools Used](#tools-used "Tools Used")
+- [Exploratory Analysis](#exploratory-analysis "Exploratory Analysis")
     1) Global COVID Explorer 
     2) Country COVID Profiles
     3) Government Policy Responces
