@@ -17,10 +17,10 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Data Preparation
 - Tools Used
 - Exploratory Analysis
-    1) [Global COVID Explorer ](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
-    2) [Country COVID Profiles](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
-    3) [Government Policy Responces](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
-    4) [Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql)
+    1) Global COVID Explorer 
+    2) Country COVID Profiles
+    3) Government Policy Responces
+    4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
     5) Inference
     
 
@@ -39,6 +39,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 **1-Global COVID Tracker**
 
 [- Total Cases/ Total Deaths / Mortality Rate (Case Fatality Ratio) : Global](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L95-L97)
+
 [- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Continent](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L101-L107)     
    
 [- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L241-L254)
@@ -57,21 +58,21 @@ This project is purely based on SQL Server, employing its innate capabilities:
  
 [- TOP 10 countries most affected by COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L273-L276)	
  
-- Top 10 countries with most deaths due to COVID(https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L278-L281) 
+[- Top 10 countries with most deaths due to COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L278-L281) 
  
-- Countries Sorted as Highest to Loweset Case Count(https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L268-L271)	
+[- Countries Sorted as Highest to Loweset Case Count](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L268-L271)	
 
-- Countries Sorted as Highest to Loweset Death Count(https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L272-L275)
+[- Countries Sorted as Highest to Loweset Death Count](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L272-L275)
 
-- Global Vaccination Report : Cummulative Distribution Relative to Population
+[- Global Vaccination Report : Cummulative Distribution Relative to Population](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L20-L35)
  
-- Top 10 Country with most citizens partially Vaccinated
+[- Top 10 Country with most citizens partially Vaccinated](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L37-L40)
 
-- Top 10 Country with most citizens Fully Vaccinated
+[- Top 10 Country with most citizens Fully Vaccinated](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L42-L49)
 
-- Top 10 Countries with most Doses Administered
+[- Top 10 Countries with most Doses Administered](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L54-L61)
 
-- Daily Share of Vaccinations: 7 Day Moving Average per country
+[- Daily Share of Vaccinations: 7 Day Moving Average per country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L63-L108)
 
       
 **2) Country COVID Profiles**
