@@ -31,7 +31,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Handling of NULL Values
 - Datatype for columns containing numerical data was converted to Float as they were imported as nvarchar
 
-## ToolsUsed
+## Tools Used
 - RDBMS: Microsoft SQL Server Management Studio
 - Tableau Public
 
@@ -75,39 +75,37 @@ This project is purely based on SQL Server, employing its innate capabilities:
 [- Daily Share of Vaccinations: 7 Day Moving Average per country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L63-L108)
 
       
-**2) Country COVID Profiles**
-		
-        - Cummulative number of New Cases by day         
+**2-Country COVID Profiles**
+
+[- Cummulative number of New Cases by day](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L160-L166)     
          
-        - Cummulative number of New Deaths by day	 
+[- Cummulative number of New Deaths by day](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L168-L174)
+      
+[- 7-Day moving average of Covid Cases](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L176-L182)
          
-        - 7-Day moving average of Covid Cases	 
+[- 7-Day moving average of Covid Deaths](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L184-L190)
          
-        - 7-Day moving average of Covid Deaths      	
+[- Percent Distribution by Population (New Cases) : Observing changes over Time](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L212-L225)
          
-        - Percent Distribution by Population (New Cases) : Observing changes over Time      	
+[- Percent Distribution by Population (New Deaths) : Observing changes over Time](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L212-L225)
          
-        - Percent Distribution by Population (New Deaths) : Observing changes over Time      	 
+[- Mortaltity Rate (Case Fatality Ratio) : Observing changes over Time ](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L227-L237)
          
-        - Mortaltity Rate (Case Fatality Ratio) : Observing changes over Time      	
-         
-        - Case Summary
+[- Case Summary](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L239-L266)
 	
-**3) Government Policy Responce**
-		
-        -  Stringency Index : Analysis depicts all countries policy measures in responce to COVID - Observed over time
-        
-        		      This is a composite measure based on nine response indicators including school closures, workplace
-			      closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest).
+**3-Government Policy Responce**
+
+[-  Stringency Index :](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L137-L52) Analysis depicts all countries policy measures in responce to COVID - Observed over time
+		      This is a composite measure based on nine response indicators including school closures, workplace
+		      closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest).
 		                
-**4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution**
-		
-        - GDP per Capita , Human Development Index(HDI) Vs Covid 19 Vaccination Distribution       
-        		     
-			     Exploring the relationship between COVID-19 vaccine distribution and two macro-socioeconomics measures, 
-			     including human development index and gross domestic product 
-			     
-        - Inference : Higher gross domestic product per capita is positively associated with higher COVID-19 vaccine distribution, and
+**4-Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution**
+
+[- GDP per Capita , Human Development Index(HDI) Vs Covid 19 Vaccination Distribution](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Vaccination_Exploratory%20Analysis.sql#L111-L133)       
+		     Exploring the relationship between COVID-19 vaccine distribution and two macro-socioeconomics measures, 
+		     including human development index and gross domestic product 
+		     
+- Inference : Higher gross domestic product per capita is positively associated with higher COVID-19 vaccine distribution, and
         	      this relationship becomes more robust over time
 
  
