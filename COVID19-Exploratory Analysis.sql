@@ -247,7 +247,8 @@
 	where continent is not null
 	group by location,population
 	--order by location
-
+	
+   --Case Summary - All Countires
 	Select * 
 	from PercentCalculation
 	order by country,Population
