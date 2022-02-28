@@ -265,10 +265,14 @@
 	where Country like '%india%'
 	order by Country
 
---13)Countries sorted with highest to Lowest Death 
+--13)Countries sorted with highest to Lowest Death / Cases
 	select  *
 	from PercentCalculation
 	order by 'Total Deaths' desc
+	
+	select  *
+	from PercentCalculation
+	order by 'Total Cases' desc
 
 --14)Top 10 contry with most infections
 	select top 10 Country, [Total Cases]
