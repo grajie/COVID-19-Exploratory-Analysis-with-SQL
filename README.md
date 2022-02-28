@@ -36,46 +36,43 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Tableau Public
 
 ## Exploratory Analysis
-**1) Global COVID Tracker**
+**1-Global COVID Tracker**
 
-        - Total Cases / Total Deaths / Mortality Rate (Case Fatality Ratio) : Global        
-         
-        - Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Continent      
-           
-        - Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Country
-         
-        - Distribution of Covid Cases worldwide 	
-         
-        - Global Mortality Distribution   
-                       
-        - Cummulative number of new cases and new deaths over time        
-         
-        - 7 Day Moving Average of daily new cases and new deaths      
-           
-        - Date Of First Case Reported For Each Country
-         
-        - Date First Death was reported in each country     
-            
-        - Case Summary of Each Country : Total Cases, Total Deaths, Percent Population Infected, Percent Population Dead, Mortality Rate	
-         
-        - TOP 10 countries most affected by COVID	
-         
-        - Top 10 countries with most deaths due to COVID 
-         
-        - Countries Sorted as Highest to Loweset Case Count	
-        
-        - Countries Sorted as Highest to Loweset Death Count
-        
-        - Global Vaccination Report : Cummulative Distribution Relative to Population
-         
-        - Top 10 Country with most citizens partially Vaccinated
-         
-        - Top 10 Country with most citizens Fully Vaccinated
-         
-        - Top 10 Countries with most Doses Administered
-        
-        - Daily Share of Vaccinations: 7 Day Moving Average per country
-        
+[- Total Cases/ Total Deaths / Mortality Rate (Case Fatality Ratio) : Global](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L95-L97)
+[- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Continent](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L101-L107)     
+   
+[- Total Cases / Total Deaths / Mortality Rate  (Case Fatality Ratio) : For each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L241-L254)
+ 
+[- Distribution of Covid Cases worldwide](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L340-L391)
+ 
+[- Global Mortality Distribution](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L286-L336)   
+       
+[- Cummulative number of new cases and new deaths over time](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L142-L150)
+ 
+[- 7 Day Moving Average of daily new cases and new deaths](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L110-L140)      
+   
+[- Date Of First Case Reported For Each Country](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L155-L158)
+     
+[- Case Summary of Each Country : Total Cases, Total Deaths, Percent Population Infected, Percent Population Dead, Mortality Rate](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L239-L266)	
+ 
+[- TOP 10 countries most affected by COVID](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L273-L276)	
+ 
+- Top 10 countries with most deaths due to COVID(https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L278-L281) 
+ 
+- Countries Sorted as Highest to Loweset Case Count(https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L268-L271)	
+
+- Countries Sorted as Highest to Loweset Death Count(https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L272-L275)
+
+- Global Vaccination Report : Cummulative Distribution Relative to Population
+ 
+- Top 10 Country with most citizens partially Vaccinated
+
+- Top 10 Country with most citizens Fully Vaccinated
+
+- Top 10 Countries with most Doses Administered
+
+- Daily Share of Vaccinations: 7 Day Moving Average per country
+
       
 **2) Country COVID Profiles**
 		
