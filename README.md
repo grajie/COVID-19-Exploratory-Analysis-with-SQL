@@ -22,6 +22,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
     3) Government Policy Responces
     4) Relationship between Macro-Socioeconomics Determinants and COVID-19 Vaccine Distribution
     5) Inference
+- [Tableau Vizualizations](https://public.tableau.com/app/profile/rajalakshmi.gnanasekaran#!/?newProfile=&activeTab=0)
     
 
 ## Dataset Overview
