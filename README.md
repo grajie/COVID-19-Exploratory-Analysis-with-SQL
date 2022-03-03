@@ -16,7 +16,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - [Dataset Overview](#dataset-overview "Dataset Overview")
 - [Data Preparation](#data-preparation "Data Preparation")
 - [Tools Used](#tools-used "Tools Used")
-- [Exploratory Analysis](#exploratory-analysis "Exploratory Analysis")
+- [Data Analysis](#exploratory-analysis "Exploratory Analysis")
     1) Global COVID Explorer 
     2) Country COVID Profiles
     3) Government Policy Responces
@@ -36,7 +36,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - RDBMS: Microsoft SQL Server Management Studio
 - Tableau Public
 
-## Exploratory Analysis
+## Data Analysis
 **1-Global COVID Tracker**
 
 [- Total Cases/ Total Deaths / Mortality Rate (Case Fatality Ratio) : Global](https://github.com/grajie/COVID-19-Exploratory-Analysis-with-SQL/blob/main/COVID19-Exploratory%20Analysis.sql#L95-L99)
