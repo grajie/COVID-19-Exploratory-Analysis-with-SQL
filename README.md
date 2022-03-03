@@ -108,6 +108,10 @@ This project is purely based on SQL Server, employing its innate capabilities:
 		     
 - Inference : Higher gross domestic product per capita is positively associated with higher COVID-19 vaccine distribution, and
         	      this relationship becomes more robust over time
-
+		      
+## Tableau Visualization
+- Used Tableau Desktop Server to connect to my local MS SQL Database Server and imported the SQL Views and Tables.
+- Created Visual explanatory Dashboard and Story for the analysis and published in Tableau Public.
+- Tableau Public : [Click Here](https://public.tableau.com/app/profile/rajalakshmi.gnanasekaran#!/?newProfile=&activeTab=0)
  
 
