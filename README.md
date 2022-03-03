@@ -112,6 +112,6 @@ This project is purely based on SQL Server, employing its innate capabilities:
 ## Tableau Visualization
 - Used Tableau Desktop Server to connect to my local MS SQL Database Server and imported the SQL Views and Tables.
 - Created Visual explanatory Dashboard and Story for the analysis and published in Tableau Public.
-- Tableau Public : [Click Here](https://public.tableau.com/app/profile/rajalakshmi.gnanasekaran#!/?newProfile=&activeTab=0)
+- COVID-19 Data Story: [Click Here](https://public.tableau.com/app/profile/rajalakshmi.gnanasekaran/viz/COVID-19StatisticsDataStory/COVID-19Statistics)
  
 
