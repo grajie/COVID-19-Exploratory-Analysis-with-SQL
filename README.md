@@ -1,4 +1,4 @@
-# Exploratory Analysis on COVID 19 Data Set
+# Data Analysis on COVID 19 Data Set
 
 Thank you for visiting the repository of Data Analysis and Visualization of COVID-19 Dataset.
 
