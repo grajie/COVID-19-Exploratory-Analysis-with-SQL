@@ -11,6 +11,7 @@ This project is purely based on SQL Server, employing its innate capabilities:
 - Temp Tables
 - CTE
 - Views 
+- Windows Functions
 
 ## Table of Contents
 - [Dataset Overview](#dataset-overview "Dataset Overview")
